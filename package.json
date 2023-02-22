@@ -1,6 +1,6 @@
 {
   "name": "todolist",
-  "homepage": "https://vitoria-junker.github.io/todo-list/",
+  "homepage": "https://vitoria-junker.github.io/todo-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
