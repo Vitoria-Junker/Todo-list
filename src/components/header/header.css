@@ -1,0 +1,11 @@
+.header {
+    padding: 0.5em;
+    border-bottom: 1px solid rgb(236, 144, 198);
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    color: rgb(236, 144, 198);
+    font-size: 21px;
+}
